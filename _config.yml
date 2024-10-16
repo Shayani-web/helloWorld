@@ -1,6 +1,6 @@
 title: Time Machine theme
 description: Time Machine is a retro-futuristic theme for GitHub Pages
-show_downloads: true
+#show_downloads: true
 google_analytics:
 theme: jekyll-theme-time-machine
 
